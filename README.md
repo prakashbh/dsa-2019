@@ -49,7 +49,9 @@ This is a compulsory challenge. All essays will be reviewed and graded on a scal
 
 **Challenge 02: Code The Philosophy**
 
-One 
+You are given with a list of ten philosophies. You need to code a simple C program to realize it. More details in the pdf: [Code The Philosophy Challenge](https://github.com/prakashbh/dsa-2019/blob/master/challenges/2-code-the-philosophy.pdf). Deadline is **25th August 2019, 5.00pm, Sunday**. Adhere to submission guidelines as mentioned. Use the template given to code. Fill up all the TO-DO sections. Template can be found [Here](https://github.com/prakashbh/dsa-2019/blob/master/challenges/2-code-the-philosophy-template.c).
+
+This is a compulsory challenge. The top submission will receive a DSA PUDDINGA trophy.
 
 * * *
 
