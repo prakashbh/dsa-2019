@@ -57,7 +57,13 @@ This is a compulsory challenge. The top submission will receive a DSA PUDDINGA t
 
 **Challenge 03: MAT Challenge**
 
-Details to be updated in a day or two. Keep an eye. 
+Look out for the [MAT Challenge](https://github.com/prakashbh/dsa-2019/blob/master/challenges/3-MAT-challenge.pdf). Along with students, even the course instructor will be taking up this challenge. Any student who designs and codes a better solution than course instructor scores a 100/100. More details in the supplied pdf. The submission deadline is **1 September 2019, 9.00pm**. 
+
+
+
+**Challenge 04: TBD**
+
+Coming Soon
 
 * * *
 
