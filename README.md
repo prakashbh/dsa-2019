@@ -53,6 +53,12 @@ You are given with a list of ten philosophies. You need to code a simple C progr
 
 This is a compulsory challenge. The top submission will receive a DSA PUDDINGA trophy.
 
+
+
+**Challenge 03: MAT Challenge**
+
+Details to be updated in a day or two. Keep an eye. 
+
 * * *
 
 ## Course Resources
