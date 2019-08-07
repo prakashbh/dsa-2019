@@ -33,8 +33,8 @@ Every programmer must have an owned library of codes. They come in handy at need
 * A quick revision of [C Basic](https://github.com/prakashbh/dsa-2019/blob/master/course-notes/0-c-basics.pdf) concepts.
 * You can revise your knowledge of structures through this ebook: [Structures and C](https://www.smashwords.com/books/view/644937). The book covers structures from the very basics to complex programs. 
 * Basic theory notes of [Stacks, Queues and Lists](https://github.com/prakashbh/dsa-2019/blob/master/course-notes/0-stacks-queues-lists-theory.pdf)
-* [Applications](https://github.com/prakashbh/dsa-2019/blob/master/course-notes/0-stacks-queues-lists-continued.pdf) of basic Data Structures
-* [Implementation](https://github.com/prakashbh/dsa-2019/blob/master/course-notes/0-stacks-queues-lists-implementation.pdf) of basic Data Structures
+* [Applications](https://github.com/prakashbh/dsa-2019/blob/master/course-notes/0-stacks-queues-lists-continued.pdf) of basic data structures
+* [Implementation](https://github.com/prakashbh/dsa-2019/blob/master/course-notes/0-stacks-queues-lists-implementation.pdf) of basic data structures
 
 * * *
 
@@ -50,3 +50,16 @@ This is a compulsory challenge. All essays will be reviewed and graded on a scal
 **Challenge 02: Code The Philosophy**
 
 One 
+
+* * *
+
+## Course Resources
+
+**Chapter 01**:
+Coming Soon
+
+* * *
+
+## Lab Resources
+
+Coming Soon
