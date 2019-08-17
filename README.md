@@ -44,8 +44,9 @@ Every programmer must have an owned library of codes. They come in handy at need
 
 One of the essential skill for a problem solver is Comprehension capability. Hence, the first challenge is an essay challenge. Read the ebook: [Design of a Programmer](https://www.smashwords.com/books/view/639609) and write an essay of 300-500 words. Your essay must not be a book review. It must be your take away thoughts. Pen down your thoughts on an A4 sheet with your name and roll number and submit it by the end of the class on **17th Aug 2019, 10.00am**. 
 
-This is a compulsory challenge. All essays will be reviewed and graded on a scale of 1 to 10.
+This is a compulsory challenge. All essays will be reviewed and graded on a scale of 1 to 35.
 
+The Challenge scorecard can be accessed here: [DOP Scorecard](https://tinyurl.com/dop-3c-2019)
 
 **Challenge 02: Code The Philosophy**
 
@@ -76,10 +77,14 @@ Coming Soon
 
 ## Lab Resources
 
-1. [Lab 01 - Revisiting the Basics - TBD]()
+1. [Lab 01 - Revisiting the Basics](https://github.com/prakashbh/dsa-2019/tree/master/labs/lab01)
 
 2. [Lab 02 - Applications of Stack and Queue - TBD]()
 
 3. [Lab 03 - MAT Challenge](https://github.com/prakashbh/dsa-2019/blob/master/challenges/3-MAT-challenge.pdf)
 
+
+* * *
+## Course Project Details
+Coming Soon
 
