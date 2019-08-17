@@ -19,11 +19,12 @@
 > PH
 
 #### Note:
-You will find all the course resources and related information on this page. The page is divided into three major sections. 
+You will find all the course resources and related information on this page. The page is divided into four major sections. 
 
 1. Challenges 
 2. Course Notes and Details
 3. Lab Resources
+4. Course Project
 
 Every programmer must have an owned library of codes. They come in handy at need. Here is mine: [Day-Today Codes](https://github.com/prakashbh/day-today-codes). If you create and have a library of your own, well, you should!
 
@@ -86,5 +87,6 @@ Coming Soon
 
 * * *
 ## Course Project Details
-Coming Soon
+* The course project will carry 30 marks - 20 Marks from lab Open Ended Experiment and 10 marks from course ISA. 
+* The project will be carried out in a team of 4
 
