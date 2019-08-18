@@ -28,6 +28,8 @@ You will find all the course resources and related information on this page. The
 
 Every programmer must have an owned library of codes. They come in handy at need. Here is mine: [Day-Today Codes](https://github.com/prakashbh/day-today-codes). If you create and have a library of your own, well, you should!
 
+Check out the [HONEST DSA DASHBOARD.](https://tinyurl.com/honest-dsa-2019)
+
 * * *
 
 ### Prerequisites
