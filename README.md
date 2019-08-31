@@ -91,9 +91,9 @@ Coming Soon.
 
 1. [Lab 01 - Revisiting the Basics](https://github.com/prakashbh/dsa-2019/tree/master/labs/lab01)
 
-2. [Lab 02 - Applications of Stack and Queue - TBD]()
+2. [Lab 02 - Applications of Stack and Queue](https://github.com/prakashbh/dsa-2019/tree/master/labs/lab02)
 
-3. [Lab 03 - Efficiency Analysis]()
+3. [Lab 03 - Efficiency Analysis](https://github.com/prakashbh/dsa-2019/tree/master/labs/lab03)
 
 4. [Lab 04 - MAT Challenge](https://github.com/prakashbh/dsa-2019/blob/master/challenges/3-MAT-challenge.pdf)
 
