@@ -74,15 +74,18 @@ Coming Soon
 
 ## Course Resources
 
-**Chapter 01**: Fundamentals of Algorithms and Problem Solving
+**Chapter 01: Fundamentals of Algorithms and Problem Solving**
+
 We started off the course with motivation and [MATH FOUNDATIONS](https://github.com/prakashbh/dsa-2019/blob/master/course-notes/1-math-foundations.pdf). The chapter is about understanding the fundamental problem types and analyzing efficiency with respect to time. [INTRODUCTION NOTES](https://github.com/prakashbh/dsa-2019/blob/master/course-notes/1-intro-to-algorithms.pdf) cover the summary.  We did solve 23 problems using [EXERCISE HANDOUT](https://github.com/prakashbh/dsa-2019/blob/master/course-notes/1-exercise-handout.pdf). 
 
 
-**Chapter 02**: Hashing and Hash Tables
+**Chapter 02: Hashing and Hash Tables**
+
 Hashing is a black box. The [INTRODUCTORY NOTES](https://github.com/prakashbh/dsa-2019/blob/master/course-notes/2-hashing-intro.pdf) cover the evolution and popular hash algorithms. Refer to [HASHING EBOOK](https://www.smashwords.com/books/view/737188) for more details. Kindly note that two concepts were given for self-study as homework. Forget not to cover them. 
 
 
-**Chapter 03**: Graphs and Trees
+**Chapter 03: Graphs and Trees**
+
 Coming Soon. 
 
 * * *
