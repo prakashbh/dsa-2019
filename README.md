@@ -69,12 +69,21 @@ Look out for the [MAT Challenge](https://github.com/prakashbh/dsa-2019/blob/mast
 
 Coming Soon
 
+
 * * *
 
 ## Course Resources
 
-**Chapter 01**:
-Coming Soon
+**Chapter 01**: Fundamentals of Algorithms and Problem Solving
+We started off the course with motivation and [MATH FOUNDATIONS](https://github.com/prakashbh/dsa-2019/blob/master/course-notes/1-math-foundations.pdf). The chapter is about understanding the fundamental problem types and analyzing efficiency with respect to time. [INTRODUCTION NOTES](https://github.com/prakashbh/dsa-2019/blob/master/course-notes/1-intro-to-algorithms.pdf) cover the summary.  We did solve 23 problems using [EXERCISE HANDOUT](https://github.com/prakashbh/dsa-2019/blob/master/course-notes/1-exercise-handout.pdf). 
+
+
+**Chapter 02**: Hashing and Hash Tables
+Hashing is a black box. The [INTRODUCTORY NOTES](https://github.com/prakashbh/dsa-2019/blob/master/course-notes/2-hashing-intro.pdf) cover the evolution and popular hash algorithms. Refer to [HASHING EBOOK](https://www.smashwords.com/books/view/737188) for more details. Kindly note that two concepts were given for self-study as homework. Forget not to cover them. 
+
+
+**Chapter 03**: Graphs and Trees
+Coming Soon. 
 
 * * *
 
@@ -86,7 +95,9 @@ Coming Soon
 
 3. [Lab 03 - Efficiency Analysis]()
 
-3. [Lab 04 - MAT Challenge](https://github.com/prakashbh/dsa-2019/blob/master/challenges/3-MAT-challenge.pdf)
+4. [Lab 04 - MAT Challenge](https://github.com/prakashbh/dsa-2019/blob/master/challenges/3-MAT-challenge.pdf)
+
+5. [Lab 05 - Binary Search Trees - TBD]()
 
 
 * * *
