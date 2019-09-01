@@ -43,6 +43,8 @@ Check out the [HONEST DSA DASHBOARD.](https://tinyurl.com/honest-dsa-2019)
 
 ## Challenges
 
+**Note:** Look out for All [Challenge Results](https://tinyurl.com/dsa-2019-challenges)
+
 **Challenge 01: Essay**
 
 One of the essential skill for a problem solver is Comprehension capability. Hence, the first challenge is an essay challenge. Read the ebook: [Design of a Programmer](https://www.smashwords.com/books/view/639609) and write an essay of 300-500 words. Your essay must not be a book review. It must be your take away thoughts. Pen down your thoughts on an A4 sheet with your name and roll number and submit it by the end of the class on **17th Aug 2019, 10.00am**. 
