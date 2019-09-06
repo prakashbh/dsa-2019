@@ -67,10 +67,27 @@ Look out for the [MAT Challenge](https://github.com/prakashbh/dsa-2019/blob/mast
 
 
 
-**Challenge 04: TBD**
+**Challenge 04: The ToH Challenge**
 
-Coming Soon
+After 2 code challenges, we come back to a report challenge. Check out the [ToH Challenge](https://github.com/prakashbh/dsa-2019/blob/master/challenges/4-toh-challenge.pdf). The deadline is NOW! This challenge carries 20 points. 
 
+
+
+**Challenge 05: The 100 Challenge**
+
+100 is an interesting number! Solve this problem that has 100 test cases - [The 100 Challenge](www.hackerrank.com/the-100-challenge). The contest is hosted on HackerRank and the problem was developed based on the idea given by Samsung R&D team. The contest ends on 16 Sept 2019. 100 Test Cases, 100 Point. Break a leg!
+
+
+
+**Challenge 06: Tree Traversal Fortnight**
+
+A fortnight worth head scrath of DFS and BFS! [Tree Traversal Fortnight](www.hackerrank.com/tree-traversal-fortnight) is hosted on HackerRank with 8 questions and 380 points. The contest ends on 20 Sept 2019. 
+
+
+
+**Challenge 07: TBD**
+
+coming soon. Sooner than you think! 
 
 * * *
 
