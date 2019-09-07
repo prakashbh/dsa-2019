@@ -75,13 +75,13 @@ After 2 code challenges, we come back to a report challenge. Check out the [ToH 
 
 **Challenge 05: The 100 Challenge**
 
-100 is an interesting number! Solve this problem that has 100 test cases - [The 100 Challenge](www.hackerrank.com/the-100-challenge). The contest is hosted on HackerRank and the problem was developed based on the idea given by Samsung R&D team. The contest ends on 16 Sept 2019. 100 Test Cases, 100 Points. Break a leg!
+100 is an interesting number! Solve this problem that has 100 test cases - [The 100 Challenge](http://www.hackerrank.com/the-100-challenge). The contest is hosted on HackerRank and the problem was developed based on the idea given by Samsung R&D team. The contest ends on 16 Sept 2019. 100 Test Cases, 100 Points. Break a leg!
 
 
 
 **Challenge 06: Tree Traversal Fortnight**
 
-A fortnight worth head scrath of DFS and BFS! [Tree Traversal Fortnight](www.hackerrank.com/tree-traversal-fortnight) is hosted on HackerRank with 8 questions and 380 points. The contest ends on 20 Sept 2019. Yes, I want you all to go a little crazy(okay, not little. extreme. ) and work your ass off! 
+A fortnight worth head scrath of DFS and BFS! [Tree Traversal Fortnight](http://www.hackerrank.com/tree-traversal-fortnight) is hosted on HackerRank with 8 questions and 380 points. The contest ends on 20 Sept 2019. Yes, I want you all to go a little crazy(okay, not little. extreme. ) and work your ass off! 
 
 
 
