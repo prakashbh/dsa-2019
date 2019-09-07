@@ -119,7 +119,9 @@ Coming Soon.
 
 4. [Lab 04 - MAT Challenge](https://github.com/prakashbh/dsa-2019/blob/master/challenges/3-MAT-challenge.pdf)
 
-5. [Lab 05 - Binary Search Trees - TBD]()
+5. [Lab 05 - Binary Search Trees](https://github.com/prakashbh/dsa-2019/tree/master/labs/lab05)
+
+6. [Lab 06 - DFS and BFS - TBD]()
 
 
 * * *
