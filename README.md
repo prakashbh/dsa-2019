@@ -121,7 +121,7 @@ Coming Soon.
 
 5. [Lab 05 - Binary Search Trees](https://github.com/prakashbh/dsa-2019/tree/master/labs/lab05)
 
-6. [Lab 06 - DFS and BFS - TBD]()
+6. [Lab 06 - DFS and BFS](https://github.com/prakashbh/dsa-2019/blob/master/labs/lab06/lab06-c.pdf)
 
 
 * * *
