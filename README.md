@@ -105,7 +105,7 @@ Hashing is a black box. The [INTRODUCTORY NOTES](https://github.com/prakashbh/ds
 
 **Chapter 03: Graphs and Trees**
 
-We realized that most real time scenarios are hierarchical and we need trees. Here is the introductory notes: [GRAPHS AND TREES](https://github.com/prakashbh/dsa-2019/blob/master/course-notes/3-graphs-and-trees.pdf). Do refer class notes for more and various examples. 
+We realized that most real time scenarios are hierarchical and we need trees. Here is the introductory notes: [GRAPHS AND TREES](https://github.com/prakashbh/dsa-2019/blob/master/course-notes/3-graphs-and-trees.pdf). Do refer class notes for more and various examples. We covered two IMPORTANT graph algorithms [DFS AND BFS](https://github.com/prakashbh/dsa-2019/blob/master/course-notes/3-dfs-bfs.pdf) and a promising data structure [TRIE](https://github.com/prakashbh/dsa-2019/blob/master/course-notes/3-trie.pdf). Keep all the code and other handouts given in the class with you! 
 
 * * *
 
