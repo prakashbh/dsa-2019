@@ -105,7 +105,7 @@ Hashing is a black box. The [INTRODUCTORY NOTES](https://github.com/prakashbh/ds
 
 **Chapter 03: Graphs and Trees**
 
-Coming Soon. 
+We realized that most real time scenarios are hierarchical and we need trees. Here is the introductory notes: [GRAPHS AND TREES](https://github.com/prakashbh/dsa-2019/blob/master/course-notes/3-graphs-and-trees.pdf). Do refer class notes for more and various examples. 
 
 * * *
 
@@ -122,6 +122,8 @@ Coming Soon.
 5. [Lab 05 - Binary Search Trees](https://github.com/prakashbh/dsa-2019/tree/master/labs/lab05)
 
 6. [Lab 06 - DFS and BFS](https://github.com/prakashbh/dsa-2019/blob/master/labs/lab06/lab06-c.pdf)
+
+7. [Lab 07- Shortest Path Algorithms: Dijkstras](https://www.hackerrank.com/dsa-lab-07-c)
 
 
 * * *
