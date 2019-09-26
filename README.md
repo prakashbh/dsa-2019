@@ -81,13 +81,26 @@ After 2 code challenges, we come back to a report challenge. Check out the [ToH 
 
 **Challenge 06: Tree Traversal Fortnight**
 
-A fortnight worth head scrath of DFS and BFS! [Tree Traversal Fortnight](http://www.hackerrank.com/tree-traversal-fortnight) is hosted on HackerRank with 8 questions and 380 points. The contest ends on 20 Sept 2019. Yes, I want you all to go a little crazy(okay, not little. extreme. ) and work your ass off! 
+A fortnight worth head scrath of DFS and BFS! [Tree Traversal Fortnight](http://www.hackerrank.com/tree-traversal-fortnight) is hosted on HackerRank with 8 questions and 380 points. The contest ends on 30 Sept 2019. Yes, I want you all to go a little crazy(okay, not little. extreme. ) and work your ass off! 
 
 
 
-**Challenge 07: TBD**
+**Challenge 07: 100 Questions Challenge**
+
+To be updated
+
+
+
+**Challenge 08: Movie Notes Challenge**
+
+Watch the movie: The Secret Rules of Modern Living: Algorithms and prepare a 2-3 page report. Submission Deadline: 02 Oct 2019, EOD. You can find the details here: [Movie Challenge](https://github.com/prakashbh/dsa-2019/blob/master/challenges/8-documentary-notes-challenge.pdf)
+
+
+
+**Challenge 09: Knit Challenge**
 
 Coming soon. Sooner than you think! 
+
 
 * * *
 
