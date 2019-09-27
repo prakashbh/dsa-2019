@@ -1,4 +1,4 @@
 KNIT ARENA CHALLENGE 2019
 ==========================
 
-to-do
+Find all the challenge related files here.
