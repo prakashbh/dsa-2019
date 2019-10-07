@@ -154,6 +154,10 @@ coming soon
 
 7. [Lab 07- Shortest Path Algorithms: Dijkstras](https://www.hackerrank.com/dsa-lab-07-c)
 
+8. [Lab 08 - Spanning Tree Algorithm: Kruskal](https://github.com/prakashbh/dsa-2019/tree/master/labs/lab08)
+
+9. [Lab 09 - TBD]()
+
 
 * * *
 ## Course Project Details
