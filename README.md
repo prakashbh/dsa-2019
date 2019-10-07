@@ -87,7 +87,7 @@ A fortnight worth head scrath of DFS and BFS! [Tree Traversal Fortnight](http://
 
 **Challenge 07: 100 Questions Challenge**
 
-To be updated
+The 100 Questions challenge was conducted on 19 Sept 2019. The class was divided into even and odd team. The challenge questions can be found [here](https://github.com/prakashbh/dsa-2019/blob/master/challenges/100-questions-challenge-2019.pdf). Even team won the challenge with a small margin of 0.22% (08 marks). 
 
 
 
@@ -99,7 +99,13 @@ Watch the movie: The Secret Rules of Modern Living: Algorithms and prepare a 2-3
 
 **Challenge 09: Knit Challenge**
 
-Coming soon. Sooner than you think! 
+Knit Arena has announced a challenge with exciting prizes. The challenge is open to all 5 divisions. The challenge details cna be found here: [Knit Challenge 2019](https://github.com/prakashbh/dsa-2019/tree/master/knit-challenge). The challenge is deadlined on 09 Oct 2019, EOD.
+
+
+**Challenge 10: Graph Case Study Challenge**
+
+Well, this challenge was announced as a festival bonus. The class is supposed to bring a solution to an interesting [graph case study](https://github.com/prakashbh/dsa-2019/blob/master/challenges/graph-case-study.pdf). The solution will be discussed on 9 Oct 2019 at 4.45pm. The best design solution will win bonus marks for minor 2. 
+
 
 
 * * *
@@ -119,6 +125,16 @@ Hashing is a black box. The [INTRODUCTORY NOTES](https://github.com/prakashbh/ds
 **Chapter 03: Graphs and Trees**
 
 We realized that most real time scenarios are hierarchical and we need trees. Here is the introductory notes: [GRAPHS AND TREES](https://github.com/prakashbh/dsa-2019/blob/master/course-notes/3-graphs-and-trees.pdf). Do refer class notes for more and various examples. We covered two IMPORTANT graph algorithms [DFS AND BFS](https://github.com/prakashbh/dsa-2019/blob/master/course-notes/3-dfs-bfs.pdf) and a promising data structure [TRIE](https://github.com/prakashbh/dsa-2019/blob/master/course-notes/3-trie.pdf). Keep all the code and other handouts given in the class with you! 
+
+
+**Minor 01**
+
+The class has performed with an average score of 14/20 with 5 students scoring 20/20. [Minor 01 Solutions](https://github.com/prakashbh/dsa-2019/blob/master/course-notes/dsa-minor1-solutions.pdf)
+
+
+**Chapter 06: Graph Algorithms**
+
+coming soon
 
 * * *
 
