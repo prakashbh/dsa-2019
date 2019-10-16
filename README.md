@@ -160,7 +160,7 @@ coming soon
 
 9. [Lab 09 - Search and Recommendation Engine](https://github.com/prakashbh/dsa-2019/tree/master/labs/lab09)
 
-10. [Lab10 - Substring Serch](https://github.com/prakashbh/dsa-2019/tree/master/labs/lab10)
+10. [Lab10 - Substring Search](https://github.com/prakashbh/dsa-2019/tree/master/labs/lab10)
 
 11. [Lab11 - Inventory - TBD]()
 
