@@ -140,6 +140,8 @@ coming soon
 
 ## Lab Resources
 
+[LAB CIE SHEET](http://www.tinyurl.com/dsalab-cie-2019)
+
 1. [Lab 01 - Revisiting the Basics](https://github.com/prakashbh/dsa-2019/tree/master/labs/lab01)
 
 2. [Lab 02 - Applications of Stack and Queue](https://github.com/prakashbh/dsa-2019/tree/master/labs/lab02)
@@ -156,10 +158,15 @@ coming soon
 
 8. [Lab 08 - Spanning Tree Algorithm: Kruskal](https://github.com/prakashbh/dsa-2019/tree/master/labs/lab08)
 
-9. [Lab 09 - TBD]()
+9. [Lab 09 - Search and Recommendation Engine](https://github.com/prakashbh/dsa-2019/tree/master/labs/lab09)
+
+10. [Lab10 - Substring Serch](https://github.com/prakashbh/dsa-2019/tree/master/labs/lab10)
+
+11. [Lab11 - Inventory - TBD]()
 
 
 * * *
+
 ## Course Project Details
 * The course project will carry 30 marks - 20 Marks from lab Open Ended Experiment and 10 marks from course ISA. 
 * The project will be carried out in a team of 4
