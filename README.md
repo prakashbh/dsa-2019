@@ -134,7 +134,7 @@ The class has performed with an average score of 14/20 with 5 students scoring 2
 
 **Chapter 04: Sorting Algorithms**
 
-coming soon
+Sorting could be a task or a subtask to achieve a task. The basics sorts: Bubble, selection and insertion can be read here: [BUBBLE-INSERTION-SELECTION](https://github.com/prakashbh/dsa-2019/blob/master/course-notes/4-bubble-selection-insertion.pdf) and the merge, quick and heap can be read here: [MERGE-QUICK-HEAP](https://github.com/prakashbh/dsa-2019/blob/master/course-notes/4-merge-quick-heap.pdf). Forget not be well versed with efficiency analysis of each. Heap, the most important of all - [HEAP EFFICIENCY ANALYSIS](). You can also look for [SORTING ALGORITHMS HANDOUT](https://github.com/prakashbh/dsa-2019/blob/master/course-notes/4-sorting-algorithms-handout.pdf).
 
 
 **Chapter 05: Substring Search Algorithms**
