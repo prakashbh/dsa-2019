@@ -132,6 +132,17 @@ We realized that most real time scenarios are hierarchical and we need trees. He
 The class has performed with an average score of 14/20 with 5 students scoring 20/20. [Minor 01 Solutions](https://github.com/prakashbh/dsa-2019/blob/master/course-notes/dsa-minor1-solutions.pdf)
 
 
+**Chapter 04: Sorting Algorithms**
+
+coming soon
+
+
+**Chapter 05: Substring Search Algorithms**
+
+coming soon
+
+
+
 **Chapter 06: Graph Algorithms**
 
 coming soon
@@ -162,7 +173,7 @@ coming soon
 
 10. [Lab10 - Substring Search](https://github.com/prakashbh/dsa-2019/tree/master/labs/lab10)
 
-11. [Lab11 - Inventory - TBD]()
+11. [Lab11 - Inventory](https://github.com/prakashbh/inventory-data-structure)
 
 
 * * *
