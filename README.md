@@ -107,6 +107,16 @@ Knit Arena has announced a challenge with exciting prizes. The challenge is open
 Well, this challenge was announced as a festival bonus. The class is supposed to bring a solution to an interesting [graph case study](https://github.com/prakashbh/dsa-2019/blob/master/challenges/graph-case-study.pdf). The solution will be discussed on 9 Oct 2019 at 4.45pm. The best design solution will win bonus marks for minor 2. 
 
 
+**Challenge 11: 100 Again**
+
+100 Again was conducted on 04 Nov 2019. The class was divided into even and odd team. The challenge questions can be found [here](https://github.com/prakashbh/dsa-2019/blob/master/course-notes/100-again.pdf). The class attendance was low (45/72) which was a little disappointing.  
+
+
+**Challenge 12: Mock Minor 2**
+
+Mock minor question paper was given to students to be solved as diwali take home assignment. The question paper can be accessed [here](https://github.com/prakashbh/dsa-2019/blob/master/course-notes/dsa-mock-minor-2.pdf).
+
+
 
 * * *
 
@@ -139,13 +149,19 @@ Sorting could be a task or a subtask to achieve a task. The basics sorts: Bubble
 
 **Chapter 05: Substring Search Algorithms**
 
-coming soon
-
+We have studied four major substring search algorithms. Brute Force, Boyer-Moore, KMP and Rabin-Karp. Plelase refer to class notes for Rabin-Karp. Remaining notes can be read here: [SUBSTRING SEARCH ALGORITHMS](https://github.com/prakashbh/dsa-2019/blob/master/course-notes/5-string-search-algorithms.pdf). Refer class notes for more examples. 
 
 
 **Chapter 06: Graph Algorithms**
 
-coming soon
+Graphs rule the world. They are the future. Read, understand and realize the shortest paths and spanning trees algorithms. [GRAPH ALGORITHMS](https://github.com/prakashbh/dsa-2019/blob/master/course-notes/6-graph-algorithms.pdf). Forget not to read the Graphs handbook [HANDBOOK](https://github.com/prakashbh/dsa-2019/blob/master/course-notes/6-graphs-handbook.pdf) - which has more examples, intuition, algorithm and efficiency analysis. 
+
+
+
+**Minor 02**
+
+TBD
+
 
 * * *
 
