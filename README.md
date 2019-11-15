@@ -200,5 +200,5 @@ TBD
 * The course project will carry 30 marks - 20 Marks from lab Open Ended Experiment and 10 marks from course ISA. 
 * The project will be carried out in a team of 4
 
-The team details can be submitted here: [Team Registration Form](https://tinyurl.com/dsa-course-projects-2019). The sheet will also track scores and status of the porject. 
+The team details can be submitted here: [Team Registration Form](https://tinyurl.com/dsa-course-projects-2019). The sheet will also track scores and status of the porject. The Project Report can be downloaded [HERE](https://github.com/prakashbh/dsa-2019/blob/master/course-notes/project-name-roll1-roll2-roll3-roll4.docx)
 
