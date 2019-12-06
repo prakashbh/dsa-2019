@@ -109,7 +109,7 @@ Well, this challenge was announced as a festival bonus. The class is supposed to
 
 **Challenge 11: 100 Again**
 
-100 Again was conducted on 04 Nov 2019. The class was divided into even and odd team. The challenge questions can be found [here](https://github.com/prakashbh/dsa-2019/blob/master/course-notes/100-again.pdf). The class attendance was low (45/72) which was a little disappointing.  
+100 Again was conducted on 04 Nov 2019. The class was divided into even and odd team. The challenge questions can be found [here](https://github.com/prakashbh/dsa-2019/blob/master/course-notes/100-again.pdf). The class attendance was low (45/72) which was a little disappointing. Odd team Won the Challenge. 
 
 
 **Challenge 12: Mock Minor 2**
@@ -161,6 +161,11 @@ Graphs rule the world. They are the future. Read, understand and realize the sho
 **Minor 02**
 
 TBD
+
+
+**Chapter 07: Problem Case Studies**
+
+In this chapter we see different problem types and their analysis and advantages. They vary over different design techniques. Study [PROBLEM CASE STUDIES](https://github.com/prakashbh/dsa-2019/blob/master/course-notes/7-problem-case-studies.pdf). There is also a supporting notes that briefs through different design techniques studied so far: [ALGORITHM DESIGN TECHNIQUES](https://github.com/prakashbh/dsa-2019/blob/master/course-notes/7-algorithm-design-techniques.pdf).
 
 
 * * *
