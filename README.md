@@ -168,6 +168,11 @@ The class has performed with an average score of 14/20 with 2 students scoring 2
 In this chapter we see different problem types and their analysis and advantages. They vary over different design techniques. Study [PROBLEM CASE STUDIES](https://github.com/prakashbh/dsa-2019/blob/master/course-notes/7-problem-case-studies.pdf). There is also a supporting notes that briefs through different design techniques studied so far: [ALGORITHM DESIGN TECHNIQUES](https://github.com/prakashbh/dsa-2019/blob/master/course-notes/7-algorithm-design-techniques.pdf).
 
 
+**Chapter 08: Limitations of Algorithm Power**
+
+Nopes, machines cannot solve everything. There are more languages than Turing Machines. Here is a summary notes of the chapter: [LIMITATIONS OF ALGORITHM](https://github.com/prakashbh/dsa-2019/blob/master/course-notes/8-algorithm-limitations.pdf).
+
+
 * * *
 
 ## Lab Resources
