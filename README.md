@@ -160,7 +160,7 @@ Graphs rule the world. They are the future. Read, understand and realize the sho
 
 **Minor 02**
 
-TBD
+The class has performed with an average score of 14/20 with 2 students scoring 20/20. [Minor 02 Solutions](https://github.com/prakashbh/dsa-2019/blob/master/course-notes/dsa-minor2-solutions.pdf)
 
 
 **Chapter 07: Problem Case Studies**
